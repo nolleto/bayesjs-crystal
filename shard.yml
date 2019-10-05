@@ -1,0 +1,17 @@
+name: teste
+version: 0.1.0
+
+authors:
+  - nolleto <felipenolletonascimento@gmail.com>
+
+dependencies:
+  kemal:
+    github: kemalcr/kemal
+
+targets:
+  teste:
+    main: src/teste.cr
+
+crystal: 0.31.1
+
+license: MIT
